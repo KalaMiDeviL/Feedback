@@ -8,7 +8,7 @@ This repository is for tracking bugs and providing suggestions for ALL CoFH mods
 
 - The issue is practically guaranteed to be on your end. This is not tech support, please check the IRC. The link is below.
 - Update to Java 8. Uninstall Java 6.
-- Update your mods! Use mods ONLY from http://teamcofh.com/downloads.
+- Update your mods! Use mods ONLY from http://teamcofh.com/downloads or https://www.curseforge.com/members/TeamCoFH/projects.
 - Be sure you do not have duplicates of mods.
 - Make sure you've done the above.
 - Seriously, if you are crashing on startup, it is almost certainly something you have done incorrectly.
